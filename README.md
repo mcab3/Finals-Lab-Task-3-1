@@ -35,11 +35,15 @@ students_enrolled: Integer, not null.
 
 ## Query Statements:
 - **Step 1.**  Retrieve all courses where students_enrolled is less than the enrollment_limit.  <img src="Images/1retrievelessthan.png" width="500">  
-- **Step 2.**  Group courses by category and calculate the total number of students enrolled for each category. <img src="Images/2groupcategory.png" width="500">
-- **Step 3.**  Retrieve the courses that are fully enrolled (ie,, students enrolled equals enrollment limit). <img src="Images/3retrievedfullyenrolled.png" width="500">   
-- **Step 4.**  Calculate the total number of students enrolled across all courses. <img src="Images/4calculatetotalstudents.png" width="500">  
-- **Step 5.**  Sort courses by students_enrolled in ascending order.  
-  <img src="Images/5sortstudent.png" width="500">
+- 
+- **Step 2.**  Group courses by category and calculate the total number of students enrolled for each category. <img src="Images/2groupcategory.png" width="500">  
+- 
+- **Step 3.**  Retrieve the courses that are fully enrolled (ie,, students enrolled equals enrollment limit). <img src="Images/3retrievedfullyenrolled.png" width="500">  
+-    
+- **Step 4.**  Calculate the total number of students enrolled across all courses. <img src="Images/4calculatetotalstudents.png" width="500">
+- 
+- **Step 5.**  Sort courses by students_enrolled in ascending order.    
+  <img src="Images/5sortstudent.png" width="500">  
 
 ## Table Structures:
 - **Table. 1** students_enrolled is less than the enrollment_limit.    
