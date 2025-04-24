@@ -27,7 +27,10 @@ students_enrolled: Integer, not null.
 
 20 courses are already present.
 
+- attached image 1.1
 <img src="Images/dbtable.png" width="300">
+
+- attached image 1.2  
 <img src="Images/insertcourse.png" width="500">
 
 ## Query Statements:
@@ -40,15 +43,15 @@ students_enrolled: Integer, not null.
 
 ## Table Structures:
 - **Table 1.** students_enrolled is less than the enrollment_limit.    
-  <img src="Images/1retrievelessthan_ts.png" width="500">  
+<img src="Images/1retrievelessthan_ts.png" width="500">  
 - **Table 2.** orgranized grouped courses by category.  
-  <img src="Images/2groupcategory_ts.png" width="500">  
+<img src="Images/2groupcategory_ts.png" width="500">  
 - **Table 3.** retrieved courses that are fully enrolled.  
-  <img src="Images/3retrievedfullyenrolled_ts.png" width="500">  
+<img src="Images/3retrievedfullyenrolled_ts.png" width="500">  
 - **Table 4.** calculated total of the students.  
-  <img src="Images/4calculatetotalstudents_ts.png" width="500">    
+<img src="Images/4calculatetotalstudents_ts.png" width="500">    
 - **Table 5.** sorted courses.  
-  <img src="Images/5sortstudent_ts.png" width="500">  
+<img src="Images/5sortstudent_ts.png" width="500">  
 
 
 
