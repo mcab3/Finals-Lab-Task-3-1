@@ -1,5 +1,5 @@
 # Finals Lab Task 3-1. Using MYSQL Clause
-In this task, it focuses on applying SQL to work with a structured dataset in a relational database. It involves setting up the database environment, retrieving targeted information based on certain conditions, organizing data into logical categories, and summarizing key figures. This reinforces the ability to extract insights from data and understand how database systems are used to support decision-making processes.
+In this task, it involves setting up the database environment, retrieving targeted information based on certain conditions, organizing data into logical categories, and summarizing key figures. This reinforces the ability to extract insights from data and understand how database systems are used to support decision-making processes.
 
 Following the directions given below in creating the given database.
 1. Create a database named online_courseDB
